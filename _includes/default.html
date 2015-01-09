@@ -23,12 +23,12 @@
 	<link href="{{ site.BASE_PATH }}/assets/css/style.css" rel="stylesheet">
 
 	<!-- Le fav and touch icons -->
-	<!-- Update these with your own images
-	<link rel="shortcut icon" href="images/favicon.ico">
+	<!--  Update these with your own images -->
+	<link rel="shortcut icon" href="{{site.author.favicon}}">
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-	-->
+	
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.BASE_PATH }}/feed.xml">
 </head>
 
@@ -43,12 +43,12 @@
 				<span class="icon-bar"></span>
 			</button>
 			{% if site.author.github %}
-			<a type="button" class="navbar-toggle nav-link" href="http://github.com/{{ site.author.github }}">
+			<a type="button" class="navbar-toggle nav-link" href="{{ site.author.github }}">
 				<i class="fa fa-github"></i>
 			</a>
 			{% endif %}
 			{% if site.author.twitter %}
-			<a type="button" class="navbar-toggle nav-link" href="http://twitter.com/{{ site.author.twitter }}">
+			<a type="button" class="navbar-toggle nav-link" href="{{ site.author.twitter }}">
 				<i class="fa fa-twitter"></i>
 			</a>
 			{% endif %}
@@ -58,7 +58,7 @@
 			</a>
 			{% endif %}
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
-				<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" />
+				<img src="{{site.author.gravatar}}" class="img-circle" />
 				{{ site.title }}
 			</a>
 		</div>
@@ -105,5 +105,6 @@
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/js/app.js"></script>
+	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/js/baidu_tongji.js"></script>
 </body>
 </html>
