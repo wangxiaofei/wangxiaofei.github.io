@@ -1,0 +1,34 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: 小灰@博客
+
+description: Stylish Jekyll Theme
+author:
+  name: 王晓飞
+  email: wangxiaofei340@163.com
+  github: https://github.com/wangxiaofei
+  weibo: http://weibo.com/u/2219814641
+  twitter: https://twitter.com/shawn_xiaohui
+  pinterest: 
+  linkedin: https://lnkd.in/bg2Bj6w
+  bio: 我不是个随便的人，我随便起来不是人！
+  gravatar: /assets/ico/mine.png
+  favicon: /assets/ico/mine.ico
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
