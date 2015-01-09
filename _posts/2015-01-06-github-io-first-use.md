@@ -2,7 +2,7 @@
 layout: post
 category: [技术,随笔]
 title: 第一次使用github.io
-tags: [Github Pages,Jeklly]
+tags: [GitHub Pages,Jeklly]
 published: true
 description: 第一次使用github.io
 ---
