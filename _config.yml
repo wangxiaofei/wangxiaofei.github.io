@@ -6,7 +6,6 @@ exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
 
-
 defaults:
   -
     scope:
