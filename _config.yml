@@ -11,8 +11,8 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 小灰@博客
-
+      title: 首页
+title: 小灰@博客
 description: Stylish Jekyll Theme
 author:
   name: 王晓飞
