@@ -26,6 +26,7 @@ description: GitHub Pages简介
 
 - GitHub Pages免费的静态站点，三个特点：免费托管、自带主题、支持自制页面和Jekyll。
 
+---
 
 ####2.为什么使用Github Pages
 
@@ -39,6 +40,7 @@ description: GitHub Pages简介
 
 5. 理想写博环境，git+github+markdown+jekyll；
 
+---
 
 ####3.创建Github Pages
 
@@ -85,9 +87,9 @@ _[mac安装](http://mac.github.com/)_
 	
 3.可以通过User/Organization Pages建立主站，而通过Project Pages挂载二级应用页面。
 
+---
 
 点击[GitHub Pages](https://pages.github.com)查看关于GitHub Pages官网的介绍。
-
 
 ---
 
