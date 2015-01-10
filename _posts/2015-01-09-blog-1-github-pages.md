@@ -1,6 +1,6 @@
 ---
 layout: post
-categorys: 技术
+category: 技术
 title: 我的博客建站使用技术[1]
 tags: [GitHub Pages]
 published: true
