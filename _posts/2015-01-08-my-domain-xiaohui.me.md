@@ -1,8 +1,8 @@
 ---
 layout: post
-category: [域名,技术]
+category: [技术]
 title: xiaohui.me正式启用
-tags: [domain]
+tags: [域名]
 published: true
 description: xiaohui.me注册使用介绍
 <!--fullview: true-->

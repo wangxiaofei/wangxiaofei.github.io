@@ -1,6 +1,6 @@
 ---
 layout: post
-category: [技术,随笔]
+category: [技术]
 title: 第一次使用github.io
 tags: [GitHub Pages,Jekyll]
 published: true
