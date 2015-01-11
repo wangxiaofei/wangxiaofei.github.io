@@ -1,7 +1,7 @@
 ---
 layout: post
 category: 我
-title: 关于我
+title: 个人资料
 tags: 
 published: true
 description: 个人简介
@@ -43,7 +43,7 @@ description: 个人简介
 
 扫一扫关注我：
 
-![我的微信](/public/upload/weixin.JPG)
+![我的微信](/public/upload/weixin.jpg)
 
 ---
 

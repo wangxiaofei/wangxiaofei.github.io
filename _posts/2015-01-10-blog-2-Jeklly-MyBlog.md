@@ -2,9 +2,9 @@
 layout: post
 category: 技术
 title: 我的博客建站使用技术[2]
-tags: [Jeklly,Ruby]
+tags: [Jekyll,Ruby]
 published: true
-description: Jeklly简介
+description: Jekyll简介
 <!--fullview: true-->
 ---
 
