@@ -43,7 +43,7 @@ description: 个人简介
 
 扫一扫关注我：
 
-![我的微信](/public/upload/weixin.jpg)
+![我的微信](/assets/ico/weixin.jpg)
 
 ---
 
