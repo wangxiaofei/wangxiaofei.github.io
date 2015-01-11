@@ -1,15 +1,12 @@
 ---
-layout: post
-category: 我
+layout: page
 title: 个人资料
-tags: 
-published: true
 description: 个人简介
 <!--fullview: true-->
 ---
 
 
-## 简介
+## 关于我
 
 ---
 

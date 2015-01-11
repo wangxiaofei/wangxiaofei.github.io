@@ -7,6 +7,7 @@
 <article>
 
 	<div class="col-sm-10">
+	{% if page.date %}
 	 <span class="post-date">
 		{% assign d = page.date | date: "%d" | plus:'0' %}
 	    {% assign m = page.date | date: "%m" | plus:'0' %}
@@ -14,6 +15,7 @@
 	    {{ m }}月
 	    {{ d }}日
     </span> 
+    {% endif %}
 	  <div class="article_body">
 	  {{ content }}
 	  </div>
