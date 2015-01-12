@@ -1,7 +1,7 @@
 ---
 layout: post
 category: 技术
-title: Dash分享
+title: Dash v2.1.2专业版破解版下载
 tags: [工具,Dash]
 published: true
 description: Dash工具分享
@@ -9,9 +9,9 @@ description: Dash工具分享
 ---
 
 
-## Dash工具分享
+## Dash工具
 
----
+> 今天介绍一款API文档浏览工具，经测试还是比较好用的。
 
 ### 1.功能简介
 
@@ -21,9 +21,7 @@ description: Dash工具分享
 
 ![截图](http://dl.iteye.com/upload/attachment/0068/7591/80db8278-4de8-3916-bc7a-4ba63c832696.jpg "Dash截图")
 
----
-
-### 2.破解版下载地址
+### 2.破解版下载地址[2.1.2专业破解版]
 
 链接: <http://pan.baidu.com/s/1qWz9vbe> 
 
@@ -32,3 +30,5 @@ description: Dash工具分享
 ---
 
 *具体请参考官网地址：<http://kapeli.com>*
+
+---
