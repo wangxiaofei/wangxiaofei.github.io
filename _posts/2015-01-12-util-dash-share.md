@@ -21,10 +21,14 @@ description: Dash工具分享
 
 ![截图](http://dl.iteye.com/upload/attachment/0068/7591/80db8278-4de8-3916-bc7a-4ba63c832696.jpg "Dash截图")
 
+---
+
 ### 2.破解版下载地址
 
 链接: <http://pan.baidu.com/s/1qWz9vbe> 
 
 密码: kbut
+
+---
 
 *具体请参考官网地址：<http://kapeli.com>*
