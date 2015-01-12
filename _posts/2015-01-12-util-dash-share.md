@@ -1,7 +1,7 @@
 ---
 layout: post
 category: 技术
-title: Dash v2.1.2专业版破解版下载
+title: Dash for Mac v2.1.2专业版破解版下载
 tags: [工具,Dash]
 published: true
 description: Dash工具分享
@@ -21,7 +21,7 @@ description: Dash工具分享
 
 ![截图](http://dl.iteye.com/upload/attachment/0068/7591/80db8278-4de8-3916-bc7a-4ba63c832696.jpg "Dash截图")
 
-### 2.破解版下载地址[2.1.2专业破解版]
+### 2.破解版下载地址 for Mac[2.1.2专业破解版]
 
 链接: <http://pan.baidu.com/s/1qWz9vbe> 
 
