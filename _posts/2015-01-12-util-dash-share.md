@@ -2,7 +2,7 @@
 layout: post
 category: 技术
 title: Dash for Mac v2.1.2专业版破解版下载
-tags: [工具,Dash]
+tags: [工具]
 published: true
 description: Dash工具分享
 <!--fullview: true-->
