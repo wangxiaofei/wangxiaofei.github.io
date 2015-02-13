@@ -11,11 +11,11 @@ description: xiaohui.me注册使用介绍
 
 ## xiaohui.me正式启用
 
->2015年1月8日，我的域名*`xiaohui.me`*正式启用，访问请点击*[小灰@博客](http://xiaohui.me)*。
+> 2015年1月8日，我的域名*`xiaohui.me`*正式启用，访问请点击*[小灰@博客](http://xiaohui.me)*。
 
 ---
 
-###1. 域名选择
+### 1. 域名选择
 
 在注册`xiaohui.me`域名之前我曾经注册过个人域名`wangxiaofei.net.cn`，当时是有优惠，6RMB/年，因为便宜，所以就注册了，但时候后来一直没怎么用。
 
@@ -28,13 +28,13 @@ description: xiaohui.me注册使用介绍
 
 ---
 
-###2. 域名注册
+### 2. 域名注册
 
 域名从[新网][xinwang]购买，首次注册150RMB，续费290RMB/年，但是后来发现[DNSPod][dnspod]注册的域名首次注册`.me`域名需要200RMB，续费也是200RMB/年。不过[DNSPod][dnspod]将来会有域名导入
 
 ---
 
-###3. 修改域名DNS
+### 3. 修改域名DNS
 
 因为域名在[新网][xinwang]购买，所以默认的DNS解析是用[新网][xinwang]的默认DNS解析，为了方便使用`GitHub Pages`，域名DNS解析换成了[DNSPod][dnspod]来解析
 
@@ -45,7 +45,7 @@ description: xiaohui.me注册使用介绍
 	
 ---
 
-###4. 增加域名A指向
+### 4. 增加域名A指向
 
 要想把自己的域名指向固定的IP地址，则需要对域名添加`A记录`，记录值为指向IP地址。
 
