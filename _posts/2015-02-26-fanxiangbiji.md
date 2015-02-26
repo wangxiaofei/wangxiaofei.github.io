@@ -4,7 +4,7 @@ category: 转载
 title: 一位博士生的返乡笔记：近年情更怯，春节回家看什么
 tags: []
 published: true
-description: 一位博士生的返乡笔记：近年情更怯，春节回家看什么
+description: 网上火起来的一篇笔记，讲的很实在，是乡下的人的生活和想法
 <!--fullview: true-->
 ---
 
