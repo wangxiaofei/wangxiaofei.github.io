@@ -40,8 +40,8 @@ author:
   pinterest:
   linkedin: https://lnkd.in/bg2Bj6w
   bio: 做一个安静的美男子
-  gravatar: /assets/ico/mine.jpg
-  favicon: /assets/ico/mine.jpg
+  gravatar: /assets/ico/mine.png
+  favicon: /assets/ico/mine.png
 
 rss_path: feed.xml
 categories_path: categories.html
