@@ -37,11 +37,11 @@ author:
   github: https://github.com/wangxiaofei
   weibo: http://weibo.com/u/2219814641
   twitter: https://twitter.com/xiaohui_me
-  pinterest: 
+  pinterest:
   linkedin: https://lnkd.in/bg2Bj6w
   bio: 做一个安静的美男子
-  gravatar: /assets/ico/mine.png
-  favicon: /assets/ico/mine.ico
+  gravatar: /assets/ico/mine.jpg
+  favicon: /assets/ico/mine.jpg
 
 rss_path: feed.xml
 categories_path: categories.html
